@@ -12,9 +12,6 @@
 
 clear; close all; clc;
 
-% Tambahkan folder Colormap menggunakan relative path (sesuaikan dengan struktur repo)
-% addpath('./Colormap'); 
-
 %% === Constants & Grid Setup ===
 ncorn = 4;
 z0 = 0;              % Topography
